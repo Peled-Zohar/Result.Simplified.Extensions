@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36212.18 d17.14
+VisualStudioVersion = 17.14.36212.18
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Result.Simplified.Extensions", "src\Result.Simplified.Extensions\Result.Simplified.Extensions.csproj", "{BA128681-AF30-4DED-9111-72EB65C577BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Result.Simplified.Extensions.Tests", "Result.Simplified.Extensions.Tests\Result.Simplified.Extensions.Tests.csproj", "{64B7D36A-FE95-47B6-94AA-C5971E224A2E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{BA128681-AF30-4DED-9111-72EB65C577BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA128681-AF30-4DED-9111-72EB65C577BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA128681-AF30-4DED-9111-72EB65C577BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64B7D36A-FE95-47B6-94AA-C5971E224A2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64B7D36A-FE95-47B6-94AA-C5971E224A2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64B7D36A-FE95-47B6-94AA-C5971E224A2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64B7D36A-FE95-47B6-94AA-C5971E224A2E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
